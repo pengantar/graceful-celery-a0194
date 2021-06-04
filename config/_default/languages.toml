@@ -1,13 +1,20 @@
 [en]
-  title = "Hugo Zzo Theme"
+  title = "AKTIPS.COM"
   languageName = "English"
   weight = 1
   languagedir = "ltr"
   contentdir = "content/en"
+  
+[id]
+  title = "AKTIPS.COM"
+  languageName = "Indonesia"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/id"
 
 [ko]
-  title = "Hugo Zzo Theme"
+  title = "AKTIPS.COM"
   languageName = "한국어"
-  weight = 2
+  weight = 3
   languagedir = "ltr"
   contentdir = "content/ko"
