@@ -5,8 +5,6 @@ theme = "zzo"
 defaultContentLanguage = "id"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
-[permalinks]
-  posts = "/:title/"
 summaryLength = 70
 buildFuture = true
 
