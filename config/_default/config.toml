@@ -1,4 +1,4 @@
-baseURL = "http://aktips.pages.dev"
+baseURL = "https://aktips.pages.dev"
 title = "Aktips com"
 theme = "zzo"
 
