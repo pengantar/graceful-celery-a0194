@@ -1,5 +1,5 @@
-baseURL = "https://aktips.pages.dev"
-title = "Aktips com"
+baseURL = ""
+title = "Aktips"
 theme = "zzo"
 
 defaultContentLanguage = "en"
