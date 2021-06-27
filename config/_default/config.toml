@@ -2,7 +2,7 @@ baseURL = "https://aktips-ci7.pages.dev"
 title = "Aktips"
 theme = "zzo"
 
-defaultContentLanguage = "id"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 summaryLength = 70
