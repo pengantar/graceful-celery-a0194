@@ -3,7 +3,7 @@ title = "Aktips"
 theme = "zzo"
 
 defaultContentLanguage = "/"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 hasCJKLanguage = true
 summaryLength = 70
 buildFuture = true
